@@ -30,4 +30,7 @@ struct Vec
 
 };
 
+using Point = Vec;
+using color = Vec;
+
 #endif //SMALLPT_VEC_H
